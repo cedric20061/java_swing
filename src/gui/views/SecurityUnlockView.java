@@ -56,7 +56,7 @@ public class SecurityUnlockView extends JPanel {
 
         // Label pour afficher le statut / numéro
         statusLabel = new JLabel("");
-        statusLabel.setFont(new Font("SansSerif", Font.PLAIN, 12));
+        statusLabel.setFont(new Font("SansSerif", Font.PLAIN, 14));
         statusLabel.setForeground(Color.RED);
         statusLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
 
